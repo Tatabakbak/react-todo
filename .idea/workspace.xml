@@ -2,43 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="891a358f-0046-419f-a0d5-6635e2da8021" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app-header/app-header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app-header/app-header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app-header/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/item-add-form/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/item-add-form/item-add-form.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/item-add-form/item-add-form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/item-status-filter/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/search-panel/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/search-panel/search-panel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/search-panel/search-panel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todo-list-item/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todo-list/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todo-list/todo-list.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todo-list/todo-list.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todo-list/todo-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todo-list/todo-list.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -134,12 +100,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572522852306</updated>
-      <workItem from="1572522853931" duration="24062000" />
+      <workItem from="1572522853931" duration="24733000" />
     </task>
+    <task id="LOCAL-00001" summary="basic functionality added">
+      <created>1572552321028</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572552321028</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -151,5 +135,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="basic functionality added" />
+    <option name="LAST_COMMIT_MESSAGE" value="basic functionality added" />
   </component>
 </project>
